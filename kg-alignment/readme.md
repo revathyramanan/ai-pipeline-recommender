@@ -17,6 +17,6 @@ As the data from various sources follow different nomenclature and data structur
 |     **Hyperparameters:**     Parameter   setting using for each execution of a stage                                     |     N/A                                 |     Extracted from   runs    |     N/A                             |
 
 
-The current data source do not provide a detailed information on the stage (data preprocessing, training or testing) of the pipeline excution. On the other hand, we know that the pipeline metadata exposed are for train/test stages. Hence we generate the information for stage and so execution. The properties of each node can be found at [common-metadata-ontology](common-metadata-ontology/readme.md).
+The current data source do not provide a detailed information on the stage (data preprocessing, training or testing) of the pipeline excution. On the other hand, we know that the pipeline metadata exposed are for train/test stages. Hence we generate the information for stage and so execution. The properties of each node can be found at [common-metadata-ontology](../common-metadata-ontology/readme.md).
 
 
