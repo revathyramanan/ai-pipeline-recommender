@@ -12,3 +12,6 @@ The sample queries AI-MKG is capable of performing are discussed below.
 
 * List all the evaluations performed on MNIST dataset
 ![Evaluations used for MNIST](evaluations-on-mnist.svg)
+
+* Parameters used for a given model (NOTE: the parameters are present as a ordered dict)
+![Parameters used for a mode](model-parameters.svg)
