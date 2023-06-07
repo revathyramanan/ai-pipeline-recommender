@@ -8,7 +8,7 @@ The sample queries AI-MKG is capable of performing are discussed below.
 ![Speech Taxonomy Pipelines](speech_taxonomy_pipeline.svg)
 
 * List all the models used for text classification task
-![Models used for Text Classification](models-text-classification)
+![Models used for Text Classification](models-text-classification.svg)
 
 * List all the evaluations performed on MNIST dataset
 ![Evaluations used for MNIST](evaluations-on-mnist.svg)
