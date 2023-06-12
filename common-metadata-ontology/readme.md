@@ -107,3 +107,6 @@ NOTE:
 * **For metric, there are umpteen possible metric names and values. Therefore, we capture all of them as a key value pair under evaluations
 * custom_properties are where user can enter custom properties for each node while executing a pipeline
 * source is the source from which the node is obtained - papers-with-code, openml, huggingface
+
+#### Turtle Syntax
+The Turtle format of formal ontology can be found [here](cmo_v2.ttl)
