@@ -1,7 +1,7 @@
 ## Common Metadata Ontology
 Common Metadata Ontology(CMO), formalization of AI-MKG, was proposed to integrate and aggregate the pipeline metadata from various sources such as Papers-with-code, OpenML and Huggingface. The overview of CMO can be found below.
 
-![Common Metadata Ontology](common-metadata-ontology_v2.png)
+![Common Metadata Ontology](CMO_V2_properties.svg)
 
 
 The properties of each node can be found below.
