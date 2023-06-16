@@ -17,7 +17,7 @@ Huggingface is a model hub that offers users access to numerous pretrained model
 ## Common Metadata Ontology
 As the data from various sources follow different nomenclature and data structure, we propose Common Metadata Ontology(CMO) to unify them. The overview of CMO can be found below and the details can be found at [common-metadata-ontology](common-metadata-ontology/readme.md) folder
 
-![Common Metadata Ontology](common-metadata-ontology/common-metadata-ontology_v2.png)
+![Common Metadata Ontology](common-metadata-ontology/CMO_V2_properties.svg)
 
 ## Mapping
 The details of mapping of each sources to Common Metadata Ontology can be found in [kg-alignment](kg-alignment/readme.md) folder.
