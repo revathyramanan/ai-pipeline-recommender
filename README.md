@@ -37,8 +37,11 @@ Sample Query: List all the image detection pipelineswith dataset and evaluations
 
 ![Sample Query](sample_queries/figures/Sample-Query.png)
 
-
 On querying the graph to return all the pipelines executed for image based detection task, the above mentioned result was obtained. The figure consists of two task node - (i) 2d object detection (ii) 3d object detection. AI-MKG has the capabilities to identify that these two are image detection based tasks even though the names have no explicit mention of ’image’.
 
 More sample queries performed on AI-MKG can be found at [sample_queries](sample_queries/readme.md)
+
+## Code
+The code and dataset is currently under the process to be open-sourced as per the company's policy.
+
 
