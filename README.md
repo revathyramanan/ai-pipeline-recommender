@@ -1,14 +1,18 @@
 # AI Pipeline Recommender
 The rapid growth of Artificial Intelligence (AI) has led to the development of many open-source datasets and machine learning models trained for various tasks. However, to effectively retrain or fine-tune these models, it is necessary to study the entire pipeline lineage, which includes dataset selection, dataset preprocessing, model selection, hyperparameter tuning, tasks, evaluation methods, and metrics. The interactions of these pipeline components are often not readily available, making it challenging to reproduce experiments or learn from them in this rapidly evolving field. We propose and showcase demonstration of an explainable AI pipeline recommender that recommends relevant end-to-end pipeline lineage graphs based on descriptions of pipelines or its components (tasks, datasets, or models). The leading contributions of this demo are (i) Dynamic AI Pipeline Constructor to gather pipeline metadata from open sources to assemble 1.6 million end-to-end pipeline lineages; (ii) A novel custom heuristic ranking function to recommend pipelines given unseen tasks, datasets, models, or pipeline description; and (iii) Presenting user-level explanations, code repositories and pipeline documentations to enable explainability, reproducibility and traceability to pipeline source. User study on evaluation of recommendation relevance showed that proposed custom heuristic achieved 78\% accuracy and embedding similarity achieved 51\%. 
 
+### Video
+The demo video can be found here - [Demo of AI pipeline Recommender](https://drive.google.com/drive/folders/1KEZJuyDLj3i9qWgXEigrhvuJ73a1OXak?usp=sharing)
+
+<br>
+<br>
 
 ![Dashboard of AI pipeline Recommender that uses Dynamic AI Pipeline Constructor](framework.png)
+<br>
 
 ![Detailed Overview of AIMKG Construction by Dynamic AI Pipeline Constructor](detailed_kg_const.drawio.png)
 
-
-### Video
-The demo video can be found here - [Demo of AI pipeline Recommender](https://drive.google.com/drive/folders/1KEZJuyDLj3i9qWgXEigrhvuJ73a1OXak?usp=sharing)
+<br>
 
 ### Data Sources
 ##### Papers-with-code
